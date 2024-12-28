@@ -2,7 +2,7 @@ import './index.css';
 
 const Specifications = () => (
   <div>
-    <h2>Specifications</h2>
+    {/* <h2>Specifications</h2> */}
     <ul>
       <li>Display: Retina</li>
       <li>Chip: S9 SiP</li>

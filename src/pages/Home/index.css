@@ -1,13 +1,32 @@
-div {
+.home-page-bg-wrapper {
     height: calc(100vh - 7rem);
     width: 100%;
-    max-width: 460px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-page-wrapper {
+    width: 100%;
+    max-width: 860px;
+    /* background-color: red; */
+}
+
+p {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin-bottom: 40px;
 }
 
 .get-started-btn {
-    padding: 10px;
+    padding: 10px 20px;
     border-radius: 40px;
-    background-color: blue;
+    background-color: #0076df;
     outline: none;
     cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
 }
