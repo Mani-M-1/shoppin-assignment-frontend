@@ -1,0 +1,12 @@
+.variants {
+  margin-top: 1rem;
+}
+
+.variants label {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.variants select {
+  margin-left: 0.5rem;
+}

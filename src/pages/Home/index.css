@@ -1,0 +1,13 @@
+div {
+    height: calc(100vh - 7rem);
+    width: 100%;
+    max-width: 460px;
+}
+
+.get-started-btn {
+    padding: 10px;
+    border-radius: 40px;
+    background-color: blue;
+    outline: none;
+    cursor: pointer;
+}

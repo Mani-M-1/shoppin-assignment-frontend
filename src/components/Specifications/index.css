@@ -1,0 +1,12 @@
+.specifications {
+  margin-top: 1rem;
+}
+
+.specifications ul {
+  list-style: none;
+  padding: 0;
+}
+
+.specifications li {
+  margin: 0.5rem 0;
+}
